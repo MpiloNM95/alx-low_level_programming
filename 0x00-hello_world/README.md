@@ -27,6 +27,8 @@
 <li>The 'puts' function has been used</li>
 <li>Not allowed to use printf</li>
 <li>The program ends with 0</li>
+<li>Main is a predefined keyword or function in C></li>
+<li>It is always the first function of every C program that is responsible for starting the execution and termination of the program</li>
 </ol>
 <h4>Task 5:</h4>
 <ol>

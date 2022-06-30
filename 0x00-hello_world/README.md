@@ -36,7 +36,7 @@
 <li>The program returns 0</li>
 <li>The program should compile without warning when using the -Wall gcc option</li>
 </ol>
-<h4>Task:</h4>
+<h4>Task 6:</h4>
 <ol>
 <li>A C program that prints the size of various types on the computer it is compiled and run on.</li>
 <li>Warnings are allowed</li>

@@ -73,4 +73,3 @@
 <li>The last printed number should be 98</li>
 <li>You are allowed to use the standard library</li>
 </ol>
-

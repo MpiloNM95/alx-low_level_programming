@@ -38,3 +38,11 @@
 <li>Task 10: a+b</li>
 <li>Task 11: 98 Battery Street, the OG</li>
 </ul>
+
+<h4>0x03 C - Debugging</h4>
+<ul>
+<li>Task 0: Multiple mains</li>
+<li>Task 1: Like, comment, subscribe</li>
+<li>Task 2: 0 > 972?</li>
+<li>Task 3: Leap year</li>
+</ul>

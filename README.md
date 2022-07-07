@@ -46,3 +46,18 @@
 <li>Task 2: 0 > 972?</li>
 <li>Task 3: Leap year</li>
 </ul>
+
+<h4>0x04 C - More Functions, More Nested Loops</h4>
+<ul>
+<li>Task 0: isupper</li>
+<li>Task 1: isdigit</li>
+<li>Task 2: Collaboration is multiplication</li>
+<li>Task 3: The numbers speak for themselves</li>
+<li>Task 4: I believe in numbers and signs</li>
+<li>Task 5: Numbers constitute the only universal language</li>
+<li>Task 6: The shortest point between to two points is a straight line</li>
+<li>Task 7: I feel like I am diagonally parked in a parrallel universe</li>
+<li>Task 8: You are so much sunshine in every square inch</li>
+<li>Task 9: Fizz-Buzz</li>
+<li>Task 10: Triangles</li>
+</ul>

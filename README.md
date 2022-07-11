@@ -61,3 +61,17 @@
 <li>Task 9: Fizz-Buzz</li>
 <li>Task 10: Triangles</li>
 </ul>
+
+<h4>0x05 C - Pointers, Array and Strings</h4>
+<ul>
+<li>Task 0: 98 Batttery st.</li>
+<li>Task 1: Dont swap horses in a crossing stream</li>
+<li>Task 2: This report, by its very length, defends itself against the risk of being read</li>
+<li>Task 3: I do not fear computers. I fear the lack of them</li>
+<li>Task 4: I can only go one way. I've not got a reverse gear</li>
+<li>Task 5: A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes</li>
+<li>Task 6: Half the lies they tell about me aren't true</li>
+<li>Task 7: Winning is only half of it. Having fun is the other half</li>
+<li>Task 8: Arrays are not pointers</li>
+<li>Task 9: strcpy</li>
+</ul>

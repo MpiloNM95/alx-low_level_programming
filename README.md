@@ -62,7 +62,7 @@
 <li>Task 10: Triangles</li>
 </ul>
 
-<h4>0x05 C - Pointers, Array and Strings</h4>
+<h4>0x05 C - Pointers, Arrays and Strings</h4>
 <ul>
 <li>Task 0: 98 Batttery st.</li>
 <li>Task 1: Dont swap horses in a crossing stream</li>
@@ -74,4 +74,16 @@
 <li>Task 7: Winning is only half of it. Having fun is the other half</li>
 <li>Task 8: Arrays are not pointers</li>
 <li>Task 9: strcpy</li>
+</ul>
+
+<h4> 0x06 C - More Pointers, Arrays and Strings</h4>
+<ul>
+<li>Task 0: strcat</li>
+<li>Task 1: strncat</li>
+<li>Task 2: strncpy</li>
+<li>Task 3: strcmp</li>
+<li>Task 4: I am a kind of paranoid in reverse. I suspect people of plotting to make me happy</li>
+<li>Task 5: Always look up</li>
+<li>Task 6: Expect the best. Prepare for the worst. Capitalize on what comes</li>
+<li>Task 7: Mozart composed his music not for the elite, but for everybody</li>
 </ul>

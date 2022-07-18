@@ -76,7 +76,7 @@
 <li>Task 9: strcpy</li>
 </ul>
 
-<h4> 0x06 C - More Pointers, Arrays and Strings</h4>
+<h4>0x06 C - More Pointers, Arrays and Strings</h4>
 <ul>
 <li>Task 0: strcat</li>
 <li>Task 1: strncat</li>
@@ -86,4 +86,16 @@
 <li>Task 5: Always look up</li>
 <li>Task 6: Expect the best. Prepare for the worst. Capitalize on what comes</li>
 <li>Task 7: Mozart composed his music not for the elite, but for everybody</li>
+</ul>
+
+<h4>0x07 C - Even More Pointers, Arrays and Strings</h4>
+<ul>
+<li>Task 0: memset</li>
+<li>Task 1: memcpy</li>
+<li>Task 2: strchr</li>
+<li>Task 3: strspn</li>
+<li>Task 4: strpbrk</li>
+<li>Task 5: strstr</li>
+<li>Task 6: Chess is mental torture</li>
+<li>Task 7: The line of life is a ragged diagonal between duty and desire</li>
 </ul>

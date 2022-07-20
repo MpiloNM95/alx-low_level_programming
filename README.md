@@ -99,3 +99,14 @@
 <li>Task 6: Chess is mental torture</li>
 <li>Task 7: The line of life is a ragged diagonal between duty and desire</li>
 </ul>
+
+<h4>0x08 C - Recursion</h4>
+<ul>
+<li>Task 0: She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget</li>
+<li>task 1: Why is it so important to dream? Because, in my dreams we are together</li>
+<li>Task 2: Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange</li>
+<li>Task 3: You mustn't be afraid to dream a little bigger, darling</li>
+<li>Task 4: Once an idea has taken hold of the brain it's almost impossible to eradicate</li>
+<li>Task 5: Your subconscious is looking for the dreamer</li>
+<li>Task 6: Inception. Is it possible?</li>
+</ul>

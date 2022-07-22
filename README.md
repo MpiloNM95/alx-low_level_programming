@@ -111,6 +111,12 @@
 <li>Task 6: Inception. Is it possible?</li>
 </ul>
 
+<h4>0x09 C - Static Libraries</h4>
+<ul>
+<li>Task 0: A library is not a luxury but one of the necessities of life</li>
+<li>Task 1: Without libraries what have we? We have no past and no future</li>
+</ul>
+
 <h4>0x0A C - Argc, Argv</h4>
 <ul>
 <li>Task 0: It ain't what they call you, it's what you answer to</li>

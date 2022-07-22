@@ -110,3 +110,12 @@
 <li>Task 5: Your subconscious is looking for the dreamer</li>
 <li>Task 6: Inception. Is it possible?</li>
 </ul>
+
+<h4>0x0A C - Argc, Argv</h4>
+<ul>
+<li>Task 0: It ain't what they call you, it's what you answer to</li>
+<li>Task 1: Silence is argument carried out by other means</li>
+<li>Task 2: The best argument against democracy is a five-minute conversation with the average voter</li>
+<li>Task 3: Neither irony nor sarcasm is argument</li>
+<li>Task 4: To infinity and beyond</li>
+</ul>

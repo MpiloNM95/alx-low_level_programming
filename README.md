@@ -125,3 +125,13 @@
 <li>Task 3: Neither irony nor sarcasm is argument</li>
 <li>Task 4: To infinity and beyond</li>
 </ul>
+
+<h4>0x0B C - Malloc, Free</h4>
+<ul>
+<li>Task 0: Float like a butterfly, sting like a bee</li>
+<li>Task 1: The woman who has no imagination has no wings</li>
+<li>Task 2: He who is not courageous enough to take risks will accomplish nothing in life</li>
+<li>Task 3: If you even dream of beating me you'd better wake up and apologize</li>
+<li>Task 4: It's not bragging if you can back it up</li>
+</ul>
+

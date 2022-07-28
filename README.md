@@ -135,3 +135,9 @@
 <li>Task 4: It's not bragging if you can back it up</li>
 </ul>
 
+<h4>0x0C C - More Malloc, Free</h4>
+<ul>
+<li>Task 0: Trust no one</li>
+<li>Task 1: string_nconcat</li>
+<li>Task 2: _calloc</li>
+<li>Task 3: array_range</li>

@@ -141,3 +141,13 @@
 <li>Task 1: string_nconcat</li>
 <li>Task 2: _calloc</li>
 <li>Task 3: array_range</li>
+</ul>
+
+<h4>0x0D C - Preprocessor</h4>
+<ul>
+<li>Task 0: Object-like Macro</li>
+<li>Task 1: Pi</li>
+<li>Task 2: File name</li>
+<li>Task 3: Function-like macro</li>
+<li>Task 4: SUM</li>
+</ul>

@@ -152,7 +152,7 @@
 <li>Task 4: SUM</li>
 </ul>
 
-<h4> 0x0E C - Structures, Typedef</h4>
+<h4>0x0E C - Structures, Typedef</h4>
 <ul>
 <li>Task 0: Poppy</li>
 <li>Task 1: A dog is the only thing on earth that loves you more than you love yourself</li>
@@ -160,4 +160,12 @@
 <li>Task 3: Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read</li>
 <li>Task 4: A door is what a dog is perpetually on the wrong side of</li>
 <li>Task 5: How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg</li>
+</ul>
+
+<h4>0x0F C - Function Pointers</h4>
+<ul>
+<li>Task 0: What's my name</li>
+<li>Task 1: If you spend too much time thinking about a thing, you'll never get it done</li>
+<li>Task 2: To hell with circumstances; I create opportunities</li>
+<li>Task 3: A goal is not always meant to be reached, it often serves simply as something to aim at</li>
 </ul>

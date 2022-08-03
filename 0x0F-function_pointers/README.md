@@ -19,6 +19,7 @@
 <li>int_index returns the index of the first element for which the cmp function does not return 0</li>
 <li>If no element matches, return -1</li>
 <li>If size <= 0, return -1</li>
+</ol>
 <h4>Task 3:</h4>
 <ol>
 <li>A program that performs simple operations</li>

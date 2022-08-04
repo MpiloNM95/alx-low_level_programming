@@ -169,3 +169,11 @@
 <li>Task 2: To hell with circumstances; I create opportunities</li>
 <li>Task 3: A goal is not always meant to be reached, it often serves simply as something to aim at</li>
 </ul>
+
+<h4>0x10 C - Variadic Functions</h4>
+<ul>
+<li>Task 0: Beauty is variable, ugliness is constant</li>
+<li>Task 1: To be is to be the value of a variable</li>
+<li>Task 2: One woman's constant is another woman's variable</li>
+<li>Task 3: To be is a to be the value of a variable</li>
+</ul>

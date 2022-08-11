@@ -177,3 +177,13 @@
 <li>Task 2: One woman's constant is another woman's variable</li>
 <li>Task 3: To be is a to be the value of a variable</li>
 </ul>
+
+<h4>0x12 C - Singly Linked Lists</h4>
+<ul>
+<li>Task 0: Print list</li>
+<li>Task 1: List length</li>
+<li>Task 2: Add node</li>
+<li>Task 3: Add node at the end</li>
+<li>Task 4: Free list</li>
+</ul>
+

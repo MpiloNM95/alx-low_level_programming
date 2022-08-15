@@ -187,3 +187,17 @@
 <li>Task 4: Free list</li>
 </ul>
 
+<h4>0x13 C - More Simgly Linked Lists</h4>
+<ul>
+<li>Task 0: Print list</li>
+<li>Task 1: List length</li>
+<li>Task 2: Add node </li>
+<li>Task 3: Add node at the end</li>
+<li>Task 4: Free list</li>
+<li>Task 5: Free</li>
+<li>Task 6: Pop</li>
+<li>Task 7: Get node at index</li>
+<li>Task 8: Sum List</li>
+<li>Task 9: Insert</li>
+<li>Task 10: Delete at index</li>
+</ul>

@@ -201,3 +201,13 @@
 <li>Task 9: Insert</li>
 <li>Task 10: Delete at index</li>
 </ul>
+
+<h4>0x14 C - Bit Manipulation</h4>
+<ul>
+<li>Task 0: 0</li>
+<li>Task 1: 1</li>
+<li>Task 2: 10</li>
+<li>Task 3: 11</li>
+<li>Task 4: 100</li>
+<li>Task 5: 101</li>
+</ul>

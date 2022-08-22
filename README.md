@@ -211,3 +211,11 @@
 <li>Task 4: 100</li>
 <li>Task 5: 101</li>
 </ul>
+
+<h4>C - File I/O</h4>
+<ul>
+<li>Task 0: Tread Lightly, she is near</li>
+<li>Task 1: Under the snow</li>
+<li>Task 2: Speak gently, she can hear</li>
+<li>Task 3: cp</li>
+</ul>

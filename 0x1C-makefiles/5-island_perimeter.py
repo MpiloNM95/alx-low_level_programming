@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-"""island_perimeter module"""
+"""5-island_perimeter module"""
 
 
 def island_perimeter(grid):
-    """Returns perimeter of the island"""
+    """Returns the perimeter of the island described in grid"""
     c = 0
-    length = len(grid) -1
-    width = len(grid[0]) -1
+    length = len(grid) - 1
+    width = len(grid[0]) - 1
 
     for i, r in enumerate(grid):
         for j, n in enumerate(r):
